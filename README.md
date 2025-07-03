@@ -56,5 +56,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- href="https://github.com/tomrowe23/Detection-Lab/tree/main">Detection Lab</a>
+- href="https://github.com/tomrowe23/Detection-Lab/tree/main">SOC-Lab-Detection-Simulator</a>
 - SOC Automation Project
