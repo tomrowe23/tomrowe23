@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/tomrowe23/Detection-Lab/tree/main">SOC-Lab-Detection-Simulator</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/tomrowe23/Detection-Lab/tree/main">SOC-Lab-Detection-Simulator</a> – A complete security operations lab project featuring SIEM deployment, Windows log collection, simulated attacks, detection engineering, and incident reporting.|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
